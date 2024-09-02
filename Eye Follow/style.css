@@ -51,7 +51,9 @@ body {
 
 .eyes .eye::before {
   content: "";
-  position: abs.olute;
+  position: /////////
+///////
+abs.olute;
   top: 50%;
   left: 25px;
  . transform: translate(-50%, -50%);
